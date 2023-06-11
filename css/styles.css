@@ -328,6 +328,83 @@ main{
     color: #B00024;
 }
 
+.container-contactos h1{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 2.4rem;
+    line-height: 2.4rem;
+    text-align: center;
+    color: #4F4C4C;
+    margin-top: 10px;
+}
+
+.container-contactos p:nth-child(2){
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 1.6rem;
+    line-height: 1.6rem;
+    text-align: center;
+    color: #000000;
+    margin-top: 10px;
+}
+
+.container-contactos button{
+    width: 80%;
+    height: 50px;
+    margin: 0 auto;
+    display: list-item;
+    border: 1px solid #E33B3B;
+    border-radius: 5px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    font-size: 1.8rem;
+    line-height: 1.6rem;
+    background-color: #FFFFFF;
+    color: #E33B3B;
+    margin-top: 10px;
+}
+
+.container-contactos p:nth-child(5){
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 1.5rem;
+    line-height: 1.6rem;
+    text-align: center;
+    color: #666666;
+    margin-top: 10px;
+}
+
+.container-contactos p:nth-child(6){
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 2.3rem;
+    line-height: 3.1rem;
+    text-align: center;
+    color: #666666;
+    margin-top: 10px;
+}
+
+.container-contactos p:nth-child(7){
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 2.3rem;
+    line-height: 3.1rem;
+    text-align: center;
+    color: #666666;
+    margin-top: 10px;
+}
+
+.container-contactos a{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 1.9rem;
+    line-height: 2.5rem;
+    color: #0006FF;
+    margin: 0 auto;
+    display: table;
+    margin-top: 10px;
+}
+
 
 
 /*ESTILOS DEL MAIN*/
