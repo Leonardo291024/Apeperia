@@ -40,13 +40,16 @@ header{
 
 /*ESTILOS DEL MAIN*/
 main{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
     width: 100%;
     background-color: #00161C;
     border-top: 1px solid #103D4A;
 } 
+
+.main-planes{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 
 .titulo-main{
     text-align: center;
