@@ -139,4 +139,81 @@ main{
     color: #E33B3B;
     margin-bottom: 10px;
 }
+
+.sobreNosotros{
+    background-color: #FFFFFF;
+    padding: 10px 10px;
+}
+
+.sobreNosotros-article{
+    margin-bottom: 20px;
+    padding: 15px 15px;
+    margin: 0 auto;
+}
+
+.sobreNosotros-article div{
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+.sobreNosotros-article div p{
+    margin-left: 8px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    font-size: 1.9rem;
+    line-height: 1.9rem;
+    color: #4F4C4C;
+}
+
+.sobreNosotros-article .article-parrafo{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 1.6rem;
+    line-height: 2.1rem;
+    color: #000000;
+    width: 199px;
+    height: 84px;
+    margin: 0 auto;
+}
+
+.title-sobreNosotros{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 2.4rem;
+    line-height: 2.4rem;
+    text-align: center;
+    color: #4F4C4C;
+    padding-top: 15px;
+    margin-bottom: 10px;
+}
+
+.sobreNosotros-nosotros{
+    padding: 20px 20px;
+}
+
+.sobreNosotros-nosotros p{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 1.6rem;
+    line-height: 2.1rem;
+    color: #000000;
+    margin-bottom: 10px;
+}
+
+.sobreNosotros p:nth-child(4){
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    font-size: 1.6rem;
+    line-height: 2.1rem;
+    color: #4F4C4C;
+}
+
+.container-logos-marcas{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 10px;
+    margin-bottom: 10px;
+}
 /*ESTILOS DEL MAIN*/
