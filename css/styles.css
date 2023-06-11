@@ -404,7 +404,21 @@ main{
     display: table;
     margin-top: 10px;
 }
-
-
-
 /*ESTILOS DEL MAIN*/
+
+/*ESTILOS DEL FOOTER*/
+footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #333333;
+}
+
+footer .logo-footer{
+    margin-bottom: 10px;
+}
+
+footer div{
+    margin-bottom: 10px;
+}
+/*ESTILOS DEL FOOTER*/
