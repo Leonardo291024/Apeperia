@@ -87,4 +87,56 @@ main{
     color: #FFFFFF;
     margin-bottom: 10px;
 }
+
+.main-destacados{
+    width: 100%;
+    background-color: #DFE3F5;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.titulo-destacados{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 2.4rem;
+    line-height: 2.4rem;
+    color: #4F4C4C;
+    padding-top: 15px;
+    margin-bottom: 10px;
+}
+
+.main-destacados img{
+    width: 100%;
+    max-width: 360px;
+}
+
+.main-destacados p{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    font-size: 1.9rem;
+    line-height: 2.5rem;
+    color: black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px 10px;
+    text-align: center;
+}
+
+.buton-destacados{
+    width: 250px;
+    height: 50px;
+    border-radius: 5px;
+    border: 1px solid #B72E2E;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    font-size: 1.6rem;
+    text-decoration: none;
+    color: #E33B3B;
+    margin-bottom: 10px;
+}
 /*ESTILOS DEL MAIN*/
