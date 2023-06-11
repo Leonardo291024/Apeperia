@@ -142,7 +142,6 @@ main{
 
 .sobreNosotros{
     background-color: #FFFFFF;
-    padding: 10px 10px;
 }
 
 .sobreNosotros-article{
@@ -216,4 +215,119 @@ main{
     padding-top: 10px;
     margin-bottom: 10px;
 }
+
+.container-planes{
+    width: 100%;
+    background-color: #DFE3F5;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.titulo-planes{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 2.4rem;
+    line-height: 2.4rem;
+    text-align: center;
+    color: #4F4C4C;
+    padding-top: 20px;
+    margin-bottom: 10px;
+}
+
+.container-plan{
+    width: 250px;
+    height: 306px;
+    background-color: #FFFFFF;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #DFE3E5;
+    padding: 10px 10px;
+}
+
+.container-plan div{
+    text-align: center;
+    border-bottom: 1px solid #DFE3E5;
+    height: 40px;
+    padding-top: 7px;
+}
+
+.container-plan div h1{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    font-size: 2.4rem;
+    line-height: 2.4rem;
+}
+
+.container-plan div .start-titulo{
+    color: #035A76;
+}
+
+.container-plan div .ultra-titulo{
+    color: #690F8E;
+}
+
+.container-plan div .mega-titulo{
+    color: #B00024;
+}
+
+.container-plan > h1{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    font-size: 4.8rem;
+    line-height: 4.8rem;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.container-plan .precio500{
+    color: #035A76;
+}
+
+.container-plan .precio1500{
+    color: #690F8E;
+}
+
+.container-plan .precio1000{
+    color: #B00024;
+}
+
+.container-plan > p{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 1.5rem;
+    line-height: 2.8rem;
+}
+
+.container-plan > button{
+    width: 150px;
+    height: 35px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 2.4rem;
+    line-height: 3.2rem;
+    text-align: center;
+    background-color: #FFFFFF;
+    display: list-item;
+    margin: 0 auto;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.container-plan .boton-plan-500{
+    border: 1px solid #035A76;
+    color: #035A76;
+}
+
+.container-plan .boton-plan-1500{
+    border: 1px solid #690F8E;
+    color: #690F8E;
+}
+
+.container-plan .boton-plan-1000{
+    border: 1px solid #B00024;
+    color: #B00024;
+}
+
+
+
 /*ESTILOS DEL MAIN*/
