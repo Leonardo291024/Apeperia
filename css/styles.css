@@ -109,7 +109,7 @@ main{
 
 .main-destacados img{
     width: 100%;
-    max-width: 360px;
+    max-width: 620px;
 }
 
 .main-destacados p{
@@ -420,5 +420,9 @@ footer .logo-footer{
 
 footer div{
     margin-bottom: 10px;
+}
+
+footer div img{
+    margin-right: 20px;
 }
 /*ESTILOS DEL FOOTER*/
