@@ -36,6 +36,11 @@ header{
     color: #FFFFFF;
     margin-right: 17px;
 }
+
+.main-planes-header-desktop{
+    display: none;
+}
+
 /*ESTILOS DEL HEADER*/
 
 /*ESTILOS DEL MAIN*/
@@ -208,6 +213,10 @@ main{
     color: #4F4C4C;
 }
 
+.sobreNosotros-nosotros .sobreNosotros-img{
+    display: none;
+}
+
 .container-logos-marcas{
     display: flex;
     justify-content: space-around;
@@ -265,6 +274,14 @@ main{
 .container-plan div .ultra-titulo{
     color: #690F8E;
 }
+
+.container-articles-planes{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
 
 .container-plan div .mega-titulo{
     color: #B00024;
@@ -412,6 +429,10 @@ footer{
     flex-direction: column;
     align-items: center;
     background-color: #333333;
+}
+
+footer .menu-ul{
+    margin-bottom: 20px;
 }
 
 footer .logo-footer{

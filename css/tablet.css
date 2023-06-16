@@ -12,3 +12,14 @@
     padding-bottom: 20px;
 }
 
+.main-planes-header-desktop{
+    display: none;
+}
+
+.sobreNosotros-article{
+    width: 30%;
+}
+
+.sobreNosotros-nosotros .sobreNosotros-img{
+    display: none;
+}

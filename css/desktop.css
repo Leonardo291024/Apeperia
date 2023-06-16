@@ -1,0 +1,61 @@
+header{
+    background-image: url(/img/bg-intro.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-bottom: 20px;
+}
+
+.logo-menu-desktop{
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    padding: 10px 10px;
+}
+
+.main-planes-header-desktop{
+    display: block;
+}
+
+.main-planes-header-desktop .link-planes{
+    margin: 0 auto;
+}
+
+.main-planes{
+    display: none;
+}
+
+.container-articles div{
+    display: flex;
+}
+
+
+.sobreNosotros-nosotros{
+    display: flex;
+}
+
+.sobreNosotros-nosotros .sobreNosotros-img{
+    display: block;
+}
+
+.container-articles-planes article{
+    margin-right: 50px;
+}
+
+footer{
+    padding: 30px 25px;
+}
+
+.footer-logo-sociales{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+footer .menu-ul{
+    display: flex;
+    justify-content: flex-start;
+    width: 100%;
+}
+
